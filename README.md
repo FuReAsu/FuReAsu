@@ -16,6 +16,7 @@
 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/hein-htet-zaw-4a9979284/)
+
 [Email](mailto:h3inhtetzaw346@gmail.com)
 <!--
 **FuReAsu/FuReAsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
