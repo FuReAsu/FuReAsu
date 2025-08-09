@@ -2,8 +2,8 @@
 
 - **DevOps Practitioner** and Open Source Enthusiast  
 - Background in **Network Engineering**  
-- Familiar with **Systems, Linux,** and related tools  
-- Beginner in **C#** and **Python**  
+- Familiar with **Systems, Linux,** and some DevOps tools  
+- Some **C#** and **Python**  
 - Currently focusing on building **DevOps tools with Python**  
 - Working with **Docker**, **Kubernetes**, **Ansible**, and **Terraform**  
 
