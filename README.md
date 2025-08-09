@@ -4,7 +4,7 @@
 - Background in **Network Engineering**  
 - Familiar with **Systems, Linux,** and some DevOps tools  
 - Some **C#** and **Python**  
-- Currently focusing on building **DevOps tools with Python**  
+- Currently trying to build **DevOps tools with Python**  
 - Working with **Docker**, **Kubernetes**, **Ansible**, and **Terraform**  
 
 ---
