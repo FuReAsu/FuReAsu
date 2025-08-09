@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello there
 
+DevOps Practitioner and an Opensource Enthusiast.
+
+Have Network Engineering background.
+Know some Systems, Linux and stuff and 
+Barely know how to code C# and python. 
+
+I am focusing on building DevOps tools with python for now.
+
+Docker, Kubernetes, Ansible, Terraform! 
 <!--
 **FuReAsu/FuReAsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
