@@ -1,4 +1,4 @@
-## Hello there 👋
+## What I do for now!
 
 - **DevOps Practitioner** and Open Source Enthusiast  
 - Background in **Network Engineering**  
