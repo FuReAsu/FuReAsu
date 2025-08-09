@@ -1,14 +1,22 @@
 ## Hello there
 
-DevOps Practitioner and an Opensource Enthusiast.
+- DevOps Practitioner and an Opensource Enthusiast.
 
-Have Network Engineering background.
-Know some Systems, Linux and stuff and 
-Barely know how to code C# and python. 
+- Have Network Engineering background.
 
-I am focusing on building DevOps tools with python for now.
+- Know some Systems, Linux and stuff and 
 
-Docker, Kubernetes, Ansible, Terraform! 
+- Barely know how to code C# and python. 
+
+- I am focusing on building DevOps tools with python for now.
+
+- Working on Docker, Kubernetes, Ansible, Terraform!
+
+[DockerHub](https://hub.docker.com/u/fureasu346) 
+
+## Contacts
+[LinkedIn](https://www.linkedin.com/in/hein-htet-zaw-4a9979284/)
+[Email](mailto:h3inhtetzaw346@gmail.com)
 <!--
 **FuReAsu/FuReAsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
