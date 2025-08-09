@@ -1,23 +1,25 @@
-## Hello there
+## Hello there 👋
 
-- DevOps Practitioner and an Opensource Enthusiast.
+- **DevOps Practitioner** and Open Source Enthusiast  
+- Background in **Network Engineering**  
+- Familiar with **Systems, Linux,** and related tools  
+- Beginner in **C#** and **Python**  
+- Currently focusing on building **DevOps tools with Python**  
+- Working with **Docker**, **Kubernetes**, **Ansible**, and **Terraform**  
 
-- Have Network Engineering background.
+---
 
-- Know some Systems, Linux and stuff and 
+### My Container Images
 
-- Barely know how to code C# and python. 
+[![DockerHub](https://img.shields.io/badge/DockerHub-239120?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/fureasu346)
 
-- I am focusing on building DevOps tools with python for now.
+---
 
-- Working on Docker, Kubernetes, Ansible, Terraform!
+### Contacts
 
-[DockerHub](https://hub.docker.com/u/fureasu346) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hein-htet-zaw-4a9979284/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h3inhtetzaw346@gmail.com)
 
-## Contacts
-[LinkedIn](https://www.linkedin.com/in/hein-htet-zaw-4a9979284/)
-
-[Email](mailto:h3inhtetzaw346@gmail.com)
 <!--
 **FuReAsu/FuReAsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
