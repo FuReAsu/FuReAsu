@@ -1,11 +1,13 @@
 ## What I do for now!
 
-- **DevOps Practitioner** and Open Source Enthusiast  
+- **DevOps Practitioner** and currently employed as DevOps Engineer 
 - Background in **Network Engineering**  
-- Familiar with **Systems, Linux,** and some DevOps tools  
-- Some **C#** and **Python**  
-- Currently trying to build **DevOps tools with Python**  
-- Working with **Docker**, **Kubernetes**, **Ansible**, and **Terraform**  
+- Familiar with **Systems, Linux,** and DevOps platforms like **GitLab, Github Actions**
+- Some cloud experience on **AWS and Digital Ocean** 
+- Programming Languages **C#** and **Python** 
+- Currently trying to build **DevOps tools with Python**
+- Creating Bash scripts to perform day-to-day actions
+- Working with **Docker**, **Kubernetes**, **Ansible**, and **Terraform**
 
 ---
 
